@@ -1,0 +1,7 @@
+C:\Users\Brem\source\repos\myapp\myapp\bin\Debug\myapp.exe.config
+C:\Users\Brem\source\repos\myapp\myapp\bin\Debug\myapp.exe
+C:\Users\Brem\source\repos\myapp\myapp\bin\Debug\myapp.pdb
+C:\Users\Brem\source\repos\myapp\myapp\obj\Debug\myapp.csprojAssemblyReference.cache
+C:\Users\Brem\source\repos\myapp\myapp\obj\Debug\myapp.csproj.CoreCompileInputs.cache
+C:\Users\Brem\source\repos\myapp\myapp\obj\Debug\myapp.exe
+C:\Users\Brem\source\repos\myapp\myapp\obj\Debug\myapp.pdb
